@@ -1,3 +1,5 @@
+# for finding factorial of a no 
+
 def fact():
     n = int(input("whats the no "))
     i = 1
